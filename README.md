@@ -1,5 +1,4 @@
 # SambaUtils
-![Build](https://github.com/lewisdoesstuff/SambaUtils/actions/workflows/dotnet.yml/badge.svg)
 
 
 A C# .NET Library to handle mounting/unmounting Samba shares on Windows.
