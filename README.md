@@ -18,12 +18,11 @@ Samba stdout/err can be enabled with `SambaUtils.Options.PrintOut = true`
 ### Building
 
 * Building the library from scratch just requires you to download the solution, then build this through your .NET IDE of choice
-* You can also use `dotnet build` from the CLI to build the file.
+* You can also use `MSBuild` from the CLI to build the file.
 
 ### Installing
 
 * Add reference to SambaUtils.dll in your .NET Project.
-* You can also add the `SambaUtils` NuGet package from the CLI or your IDE.
 
 ### Usage
 
