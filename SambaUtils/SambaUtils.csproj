@@ -7,10 +7,11 @@
         <ProjectGuid>{E649D175-F708-41E7-AECC-0E6AC59758F1}</ProjectGuid>
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>SambaUtils_Win</RootNamespace>
-        <AssemblyName>SambaUtils_Win</AssemblyName>
+        <RootNamespace>SambaUtils</RootNamespace>
+        <AssemblyName>SambaUtils</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
+        <LangVersion>default</LangVersion>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
         <PlatformTarget>AnyCPU</PlatformTarget>

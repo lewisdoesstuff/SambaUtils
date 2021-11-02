@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SambaUtils-Win", "SambaUtils-Win\SambaUtils-Win.csproj", "{E649D175-F708-41E7-AECC-0E6AC59758F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SambaUtils", "SambaUtils\SambaUtils.csproj", "{E649D175-F708-41E7-AECC-0E6AC59758F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
