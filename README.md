@@ -13,7 +13,8 @@ Samba stdout/err can be enabled with `SambaUtils.Options.PrintOut = true`
 
 ### Dependencies
 
-* Project targets .NET Framework 4.7. There shouldn't be any issues building for NET 5.0, if needed.
+* Project targets .NET 6. SDK required for building.
+    - We don't call anything specific, so building for .NET 4.8 or .NET 5 isn't an issue.
 
 ### Building
 
@@ -23,6 +24,8 @@ Samba stdout/err can be enabled with `SambaUtils.Options.PrintOut = true`
 ### Installing
 
 * Add reference to SambaUtils.dll in your .NET Project.
+
+* Alternatively, download the SambaUtils package from Nuget (.NET 6).
 
 ### Usage
 
@@ -51,6 +54,8 @@ C# Example
 
 ## Version History
 
+* 0.2
+    * .NET 6 port
 * 0.1
     * Initial Release
 
